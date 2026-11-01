@@ -1,0 +1,33 @@
+# Python & Environment
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+*.env.*
+.pytest_cache/
+
+# Node.js & Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Database & Runtime Buffers
+*.db
+*.db-journal
+tmp_audio/
+
+# Temporary Audio Build Artifacts
+data/tts_raw/
+data/tts_test/
+data/temp_tts_builder.ps1
+data/generate_tts.ps1
+data/test_tts.wav
+
+# Local deployment scripts
+deploy_to_vercel.py
+
+# OS & Logs
+.DS_Store
+Thumbs.db
+*.log

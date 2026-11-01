@@ -1,0 +1,10 @@
+{
+  "total_samples": 242,
+  "bonafide_count": 121,
+  "spoof_count": 121,
+  "train_count": 170,
+  "val_count": 36,
+  "test_count": 36,
+  "sampling_rate": 16000,
+  "duration_sec": 3.0
+}

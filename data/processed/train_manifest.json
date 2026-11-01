@@ -1,0 +1,1362 @@
+[
+  {
+    "audio_id": "tts_vocoder_ripple_022",
+    "speaker_id": "vocoder",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_vocoder_ripple_022.wav"
+  },
+  {
+    "audio_id": "real_human_pitch_high_06",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\real_human_pitch_high_06.wav"
+  },
+  {
+    "audio_id": "phys_human_spk_041",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\phys_human_spk_041.wav"
+  },
+  {
+    "audio_id": "real_human_reverb_06",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\real_human_reverb_06.wav"
+  },
+  {
+    "audio_id": "tts_vocoder_ripple_006",
+    "speaker_id": "vocoder",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_vocoder_ripple_006.wav"
+  },
+  {
+    "audio_id": "phys_human_spk_038",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\phys_human_spk_038.wav"
+  },
+  {
+    "audio_id": "tts_diphone_009",
+    "speaker_id": "diphone",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_diphone_009.wav"
+  },
+  {
+    "audio_id": "tts_clean_005",
+    "speaker_id": "clean",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_clean_005.wav"
+  },
+  {
+    "audio_id": "tts_clean_014",
+    "speaker_id": "clean",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_clean_014.wav"
+  },
+  {
+    "audio_id": "tts_bandlimit_016",
+    "speaker_id": "bandlimit",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_bandlimit_016.wav"
+  },
+  {
+    "audio_id": "phys_human_spk_052",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\phys_human_spk_052.wav"
+  },
+  {
+    "audio_id": "real_human_pitch_high_08",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\real_human_pitch_high_08.wav"
+  },
+  {
+    "audio_id": "real_human_reverb_01",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\real_human_reverb_01.wav"
+  },
+  {
+    "audio_id": "real_human_pitch_high_01",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\real_human_pitch_high_01.wav"
+  },
+  {
+    "audio_id": "tts_vocoder_ripple_023",
+    "speaker_id": "vocoder",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_vocoder_ripple_023.wav"
+  },
+  {
+    "audio_id": "phys_human_spk_013",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\phys_human_spk_013.wav"
+  },
+  {
+    "audio_id": "phys_human_spk_060",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\phys_human_spk_060.wav"
+  },
+  {
+    "audio_id": "phys_human_spk_034",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\phys_human_spk_034.wav"
+  },
+  {
+    "audio_id": "tts_diphone_036",
+    "speaker_id": "diphone",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_diphone_036.wav"
+  },
+  {
+    "audio_id": "phys_human_spk_006",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\phys_human_spk_006.wav"
+  },
+  {
+    "audio_id": "real_human_pitch_high_12",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\real_human_pitch_high_12.wav"
+  },
+  {
+    "audio_id": "phys_human_spk_062",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\phys_human_spk_062.wav"
+  },
+  {
+    "audio_id": "tts_diphone_015",
+    "speaker_id": "diphone",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_diphone_015.wav"
+  },
+  {
+    "audio_id": "tts_diphone_021",
+    "speaker_id": "diphone",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_diphone_021.wav"
+  },
+  {
+    "audio_id": "real_human_base_11",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\real_human_base_11.wav"
+  },
+  {
+    "audio_id": "tts_vocoder_ripple_005",
+    "speaker_id": "vocoder",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_vocoder_ripple_005.wav"
+  },
+  {
+    "audio_id": "tts_griffin_lim_032",
+    "speaker_id": "griffin",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_griffin_lim_032.wav"
+  },
+  {
+    "audio_id": "phys_human_spk_025",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\phys_human_spk_025.wav"
+  },
+  {
+    "audio_id": "phys_human_spk_055",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\phys_human_spk_055.wav"
+  },
+  {
+    "audio_id": "tts_clean_031",
+    "speaker_id": "clean",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_clean_031.wav"
+  },
+  {
+    "audio_id": "phys_human_spk_037",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\phys_human_spk_037.wav"
+  },
+  {
+    "audio_id": "tts_clean_027",
+    "speaker_id": "clean",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_clean_027.wav"
+  },
+  {
+    "audio_id": "real_human_reverb_02",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\real_human_reverb_02.wav"
+  },
+  {
+    "audio_id": "real_human_reverb_10",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\real_human_reverb_10.wav"
+  },
+  {
+    "audio_id": "tts_griffin_lim_026",
+    "speaker_id": "griffin",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_griffin_lim_026.wav"
+  },
+  {
+    "audio_id": "tts_clean_022",
+    "speaker_id": "clean",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_clean_022.wav"
+  },
+  {
+    "audio_id": "tts_clean_019",
+    "speaker_id": "clean",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_clean_019.wav"
+  },
+  {
+    "audio_id": "phys_human_spk_020",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\phys_human_spk_020.wav"
+  },
+  {
+    "audio_id": "tts_griffin_lim_018",
+    "speaker_id": "griffin",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_griffin_lim_018.wav"
+  },
+  {
+    "audio_id": "tts_vocoder_ripple_032",
+    "speaker_id": "vocoder",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_vocoder_ripple_032.wav"
+  },
+  {
+    "audio_id": "phys_human_spk_045",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\phys_human_spk_045.wav"
+  },
+  {
+    "audio_id": "phys_human_spk_058",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\phys_human_spk_058.wav"
+  },
+  {
+    "audio_id": "real_human_pitch_high_13",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\real_human_pitch_high_13.wav"
+  },
+  {
+    "audio_id": "real_human_base_03",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\real_human_base_03.wav"
+  },
+  {
+    "audio_id": "phys_human_spk_061",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\phys_human_spk_061.wav"
+  },
+  {
+    "audio_id": "tts_bandlimit_036",
+    "speaker_id": "bandlimit",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_bandlimit_036.wav"
+  },
+  {
+    "audio_id": "tts_diphone_033",
+    "speaker_id": "diphone",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_diphone_033.wav"
+  },
+  {
+    "audio_id": "tts_clean_003",
+    "speaker_id": "clean",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_clean_003.wav"
+  },
+  {
+    "audio_id": "real_human_reverb_07",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\real_human_reverb_07.wav"
+  },
+  {
+    "audio_id": "tts_griffin_lim_004",
+    "speaker_id": "griffin",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_griffin_lim_004.wav"
+  },
+  {
+    "audio_id": "real_human_pitch_low_01",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\real_human_pitch_low_01.wav"
+  },
+  {
+    "audio_id": "tts_vocoder_ripple_038",
+    "speaker_id": "vocoder",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_vocoder_ripple_038.wav"
+  },
+  {
+    "audio_id": "real_human_reverb_09",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\real_human_reverb_09.wav"
+  },
+  {
+    "audio_id": "real_human_pitch_high_09",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\real_human_pitch_high_09.wav"
+  },
+  {
+    "audio_id": "real_human_pitch_low_04",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\real_human_pitch_low_04.wav"
+  },
+  {
+    "audio_id": "real_human_pitch_low_02",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\real_human_pitch_low_02.wav"
+  },
+  {
+    "audio_id": "tts_clean_029",
+    "speaker_id": "clean",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_clean_029.wav"
+  },
+  {
+    "audio_id": "tts_vocoder_ripple_024",
+    "speaker_id": "vocoder",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_vocoder_ripple_024.wav"
+  },
+  {
+    "audio_id": "real_human_base_06",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\real_human_base_06.wav"
+  },
+  {
+    "audio_id": "tts_clean_018",
+    "speaker_id": "clean",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_clean_018.wav"
+  },
+  {
+    "audio_id": "tts_vocoder_ripple_025",
+    "speaker_id": "vocoder",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_vocoder_ripple_025.wav"
+  },
+  {
+    "audio_id": "tts_clean_036",
+    "speaker_id": "clean",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_clean_036.wav"
+  },
+  {
+    "audio_id": "tts_vocoder_ripple_016",
+    "speaker_id": "vocoder",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_vocoder_ripple_016.wav"
+  },
+  {
+    "audio_id": "phys_human_spk_024",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\phys_human_spk_024.wav"
+  },
+  {
+    "audio_id": "tts_diphone_018",
+    "speaker_id": "diphone",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_diphone_018.wav"
+  },
+  {
+    "audio_id": "phys_human_spk_022",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\phys_human_spk_022.wav"
+  },
+  {
+    "audio_id": "real_human_reverb_04",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\real_human_reverb_04.wav"
+  },
+  {
+    "audio_id": "tts_vocoder_ripple_035",
+    "speaker_id": "vocoder",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_vocoder_ripple_035.wav"
+  },
+  {
+    "audio_id": "real_human_base_04",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\real_human_base_04.wav"
+  },
+  {
+    "audio_id": "phys_human_spk_021",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\phys_human_spk_021.wav"
+  },
+  {
+    "audio_id": "phys_human_spk_014",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\phys_human_spk_014.wav"
+  },
+  {
+    "audio_id": "tts_vocoder_ripple_007",
+    "speaker_id": "vocoder",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_vocoder_ripple_007.wav"
+  },
+  {
+    "audio_id": "phys_human_spk_008",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\phys_human_spk_008.wav"
+  },
+  {
+    "audio_id": "phys_human_spk_029",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\phys_human_spk_029.wav"
+  },
+  {
+    "audio_id": "tts_vocoder_ripple_037",
+    "speaker_id": "vocoder",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_vocoder_ripple_037.wav"
+  },
+  {
+    "audio_id": "real_human_base_07",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\real_human_base_07.wav"
+  },
+  {
+    "audio_id": "tts_vocoder_ripple_026",
+    "speaker_id": "vocoder",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_vocoder_ripple_026.wav"
+  },
+  {
+    "audio_id": "phys_human_spk_012",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\phys_human_spk_012.wav"
+  },
+  {
+    "audio_id": "tts_clean_012",
+    "speaker_id": "clean",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_clean_012.wav"
+  },
+  {
+    "audio_id": "tts_bandlimit_004",
+    "speaker_id": "bandlimit",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_bandlimit_004.wav"
+  },
+  {
+    "audio_id": "real_human_reverb_13",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\real_human_reverb_13.wav"
+  },
+  {
+    "audio_id": "phys_human_spk_033",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\phys_human_spk_033.wav"
+  },
+  {
+    "audio_id": "tts_vocoder_ripple_014",
+    "speaker_id": "vocoder",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_vocoder_ripple_014.wav"
+  },
+  {
+    "audio_id": "tts_diphone_030",
+    "speaker_id": "diphone",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_diphone_030.wav"
+  },
+  {
+    "audio_id": "real_human_reverb_00",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\real_human_reverb_00.wav"
+  },
+  {
+    "audio_id": "phys_human_spk_040",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\phys_human_spk_040.wav"
+  },
+  {
+    "audio_id": "phys_human_spk_059",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\phys_human_spk_059.wav"
+  },
+  {
+    "audio_id": "tts_diphone_003",
+    "speaker_id": "diphone",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_diphone_003.wav"
+  },
+  {
+    "audio_id": "tts_griffin_lim_016",
+    "speaker_id": "griffin",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_griffin_lim_016.wav"
+  },
+  {
+    "audio_id": "tts_griffin_lim_036",
+    "speaker_id": "griffin",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_griffin_lim_036.wav"
+  },
+  {
+    "audio_id": "real_human_reverb_03",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\real_human_reverb_03.wav"
+  },
+  {
+    "audio_id": "tts_clean_030",
+    "speaker_id": "clean",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_clean_030.wav"
+  },
+  {
+    "audio_id": "tts_vocoder_ripple_015",
+    "speaker_id": "vocoder",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_vocoder_ripple_015.wav"
+  },
+  {
+    "audio_id": "real_human_pitch_low_12",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\real_human_pitch_low_12.wav"
+  },
+  {
+    "audio_id": "real_human_pitch_low_13",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\real_human_pitch_low_13.wav"
+  },
+  {
+    "audio_id": "phys_human_spk_042",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\phys_human_spk_042.wav"
+  },
+  {
+    "audio_id": "real_human_pitch_low_11",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\real_human_pitch_low_11.wav"
+  },
+  {
+    "audio_id": "tts_griffin_lim_002",
+    "speaker_id": "griffin",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_griffin_lim_002.wav"
+  },
+  {
+    "audio_id": "phys_human_spk_016",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\phys_human_spk_016.wav"
+  },
+  {
+    "audio_id": "phys_human_spk_039",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\phys_human_spk_039.wav"
+  },
+  {
+    "audio_id": "tts_clean_025",
+    "speaker_id": "clean",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_clean_025.wav"
+  },
+  {
+    "audio_id": "tts_clean_026",
+    "speaker_id": "clean",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_clean_026.wav"
+  },
+  {
+    "audio_id": "phys_human_spk_054",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\phys_human_spk_054.wav"
+  },
+  {
+    "audio_id": "real_human_pitch_low_03",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\real_human_pitch_low_03.wav"
+  },
+  {
+    "audio_id": "tts_clean_035",
+    "speaker_id": "clean",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_clean_035.wav"
+  },
+  {
+    "audio_id": "real_human_pitch_high_02",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\real_human_pitch_high_02.wav"
+  },
+  {
+    "audio_id": "phys_human_spk_048",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\phys_human_spk_048.wav"
+  },
+  {
+    "audio_id": "tts_griffin_lim_030",
+    "speaker_id": "griffin",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_griffin_lim_030.wav"
+  },
+  {
+    "audio_id": "phys_human_spk_009",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\phys_human_spk_009.wav"
+  },
+  {
+    "audio_id": "real_human_base_09",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\real_human_base_09.wav"
+  },
+  {
+    "audio_id": "tts_clean_021",
+    "speaker_id": "clean",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_clean_021.wav"
+  },
+  {
+    "audio_id": "phys_human_spk_028",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\phys_human_spk_028.wav"
+  },
+  {
+    "audio_id": "real_human_pitch_high_05",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\real_human_pitch_high_05.wav"
+  },
+  {
+    "audio_id": "tts_vocoder_ripple_009",
+    "speaker_id": "vocoder",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_vocoder_ripple_009.wav"
+  },
+  {
+    "audio_id": "real_human_pitch_low_08",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\real_human_pitch_low_08.wav"
+  },
+  {
+    "audio_id": "phys_human_spk_027",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\phys_human_spk_027.wav"
+  },
+  {
+    "audio_id": "real_human_pitch_high_11",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\real_human_pitch_high_11.wav"
+  },
+  {
+    "audio_id": "phys_human_spk_000",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\phys_human_spk_000.wav"
+  },
+  {
+    "audio_id": "tts_diphone_027",
+    "speaker_id": "diphone",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_diphone_027.wav"
+  },
+  {
+    "audio_id": "real_human_base_02",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\real_human_base_02.wav"
+  },
+  {
+    "audio_id": "tts_clean_038",
+    "speaker_id": "clean",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_clean_038.wav"
+  },
+  {
+    "audio_id": "tts_vocoder_ripple_030",
+    "speaker_id": "vocoder",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_vocoder_ripple_030.wav"
+  },
+  {
+    "audio_id": "real_human_base_00",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\real_human_base_00.wav"
+  },
+  {
+    "audio_id": "tts_clean_020",
+    "speaker_id": "clean",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_clean_020.wav"
+  },
+  {
+    "audio_id": "real_human_pitch_high_10",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\real_human_pitch_high_10.wav"
+  },
+  {
+    "audio_id": "tts_vocoder_ripple_036",
+    "speaker_id": "vocoder",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_vocoder_ripple_036.wav"
+  },
+  {
+    "audio_id": "tts_griffin_lim_012",
+    "speaker_id": "griffin",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_griffin_lim_012.wav"
+  },
+  {
+    "audio_id": "tts_clean_007",
+    "speaker_id": "clean",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_clean_007.wav"
+  },
+  {
+    "audio_id": "tts_clean_011",
+    "speaker_id": "clean",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_clean_011.wav"
+  },
+  {
+    "audio_id": "phys_human_spk_023",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\phys_human_spk_023.wav"
+  },
+  {
+    "audio_id": "tts_bandlimit_020",
+    "speaker_id": "bandlimit",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_bandlimit_020.wav"
+  },
+  {
+    "audio_id": "tts_clean_009",
+    "speaker_id": "clean",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_clean_009.wav"
+  },
+  {
+    "audio_id": "phys_human_spk_049",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\phys_human_spk_049.wav"
+  },
+  {
+    "audio_id": "tts_clean_024",
+    "speaker_id": "clean",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_clean_024.wav"
+  },
+  {
+    "audio_id": "tts_vocoder_ripple_000",
+    "speaker_id": "vocoder",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_vocoder_ripple_000.wav"
+  },
+  {
+    "audio_id": "phys_human_spk_010",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\phys_human_spk_010.wav"
+  },
+  {
+    "audio_id": "tts_clean_002",
+    "speaker_id": "clean",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_clean_002.wav"
+  },
+  {
+    "audio_id": "tts_clean_017",
+    "speaker_id": "clean",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_clean_017.wav"
+  },
+  {
+    "audio_id": "tts_clean_001",
+    "speaker_id": "clean",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_clean_001.wav"
+  },
+  {
+    "audio_id": "real_human_base_10",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\real_human_base_10.wav"
+  },
+  {
+    "audio_id": "real_human_pitch_high_07",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\real_human_pitch_high_07.wav"
+  },
+  {
+    "audio_id": "tts_vocoder_ripple_012",
+    "speaker_id": "vocoder",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_vocoder_ripple_012.wav"
+  },
+  {
+    "audio_id": "phys_human_spk_035",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\phys_human_spk_035.wav"
+  },
+  {
+    "audio_id": "tts_griffin_lim_034",
+    "speaker_id": "griffin",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_griffin_lim_034.wav"
+  },
+  {
+    "audio_id": "real_human_reverb_11",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\real_human_reverb_11.wav"
+  },
+  {
+    "audio_id": "tts_vocoder_ripple_021",
+    "speaker_id": "vocoder",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_vocoder_ripple_021.wav"
+  },
+  {
+    "audio_id": "phys_human_spk_011",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\phys_human_spk_011.wav"
+  },
+  {
+    "audio_id": "tts_griffin_lim_006",
+    "speaker_id": "griffin",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_griffin_lim_006.wav"
+  },
+  {
+    "audio_id": "tts_clean_013",
+    "speaker_id": "clean",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_clean_013.wav"
+  },
+  {
+    "audio_id": "tts_vocoder_ripple_018",
+    "speaker_id": "vocoder",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_vocoder_ripple_018.wav"
+  },
+  {
+    "audio_id": "phys_human_spk_017",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\phys_human_spk_017.wav"
+  },
+  {
+    "audio_id": "tts_clean_008",
+    "speaker_id": "clean",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_clean_008.wav"
+  },
+  {
+    "audio_id": "real_human_pitch_low_06",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\real_human_pitch_low_06.wav"
+  },
+  {
+    "audio_id": "tts_clean_037",
+    "speaker_id": "clean",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_clean_037.wav"
+  },
+  {
+    "audio_id": "real_human_pitch_high_04",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\real_human_pitch_high_04.wav"
+  },
+  {
+    "audio_id": "tts_griffin_lim_038",
+    "speaker_id": "griffin",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_griffin_lim_038.wav"
+  },
+  {
+    "audio_id": "tts_clean_032",
+    "speaker_id": "clean",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_clean_032.wav"
+  },
+  {
+    "audio_id": "phys_human_spk_005",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\phys_human_spk_005.wav"
+  },
+  {
+    "audio_id": "phys_human_spk_063",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\phys_human_spk_063.wav"
+  },
+  {
+    "audio_id": "tts_vocoder_ripple_034",
+    "speaker_id": "vocoder",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_vocoder_ripple_034.wav"
+  },
+  {
+    "audio_id": "real_human_reverb_08",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\real_human_reverb_08.wav"
+  },
+  {
+    "audio_id": "tts_vocoder_ripple_017",
+    "speaker_id": "vocoder",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_vocoder_ripple_017.wav"
+  },
+  {
+    "audio_id": "tts_diphone_000",
+    "speaker_id": "diphone",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_diphone_000.wav"
+  },
+  {
+    "audio_id": "tts_vocoder_ripple_028",
+    "speaker_id": "vocoder",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_vocoder_ripple_028.wav"
+  },
+  {
+    "audio_id": "tts_vocoder_ripple_029",
+    "speaker_id": "vocoder",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_vocoder_ripple_029.wav"
+  },
+  {
+    "audio_id": "tts_clean_006",
+    "speaker_id": "clean",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_clean_006.wav"
+  },
+  {
+    "audio_id": "tts_bandlimit_008",
+    "speaker_id": "bandlimit",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_bandlimit_008.wav"
+  },
+  {
+    "audio_id": "tts_vocoder_ripple_020",
+    "speaker_id": "vocoder",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_vocoder_ripple_020.wav"
+  },
+  {
+    "audio_id": "real_human_base_01",
+    "speaker_id": "human",
+    "system_id": "human",
+    "label": 0,
+    "label_name": "BONAFIDE",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\bonafide\\real_human_base_01.wav"
+  },
+  {
+    "audio_id": "tts_vocoder_ripple_033",
+    "speaker_id": "vocoder",
+    "system_id": "synthetic",
+    "label": 1,
+    "label_name": "SPOOF",
+    "file_path": "C:\\Users\\kanag\\Downloads\\files\\data\\benchmark_samples\\spoof\\tts_vocoder_ripple_033.wav"
+  }
+]
