@@ -49,11 +49,33 @@ app = FastAPI(
 # CORS Middleware
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=settings.cors_origins_list + ["*"],  # Permits local dev frontends
+    allow_origins=settings.cors_origins_list + ["*"],  # Permits local dev frontends and cloud deployments
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+
+@app.middleware("http")
+async def add_cors_and_private_network_headers(request: Request, call_next):
+    """
+    Enables Chrome Private Network Access (PNA) so cloud-hosted frontends
+    (such as Vercel deployments on HTTPS) can communicate seamlessly with
+    local or remote backend services without browser mixed-network blocking.
+    """
+    if request.method == "OPTIONS":
+        response = JSONResponse(content={"status": "ok"}, status_code=status.HTTP_200_OK)
+        origin = request.headers.get("origin", "*")
+        response.headers["Access-Control-Allow-Origin"] = origin
+        response.headers["Access-Control-Allow-Methods"] = "GET, POST, PUT, DELETE, OPTIONS"
+        response.headers["Access-Control-Allow-Headers"] = "*"
+        response.headers["Access-Control-Allow-Credentials"] = "true"
+        response.headers["Access-Control-Allow-Private-Network"] = "true"
+        return response
+
+    response = await call_next(request)
+    response.headers["Access-Control-Allow-Private-Network"] = "true"
+    return response
 
 # Mount evaluation artifacts for frontend chart loading
 eval_dir = os.path.abspath(settings.EVALUATION_RESULTS_DIR)

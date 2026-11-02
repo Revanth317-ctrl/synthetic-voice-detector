@@ -18,6 +18,7 @@ import AudioPlayer from '../components/AudioPlayer';
 import ConfidenceMeter from '../components/ConfidenceMeter';
 import SpectrogramViewer from '../components/SpectrogramViewer';
 import WaveformVisualizer from '../components/WaveformVisualizer';
+import BackendConfigModal from '../components/BackendConfigModal';
 import { useAudioRecorder } from '../hooks/useAudioRecorder';
 import { detectAudio, recordAudio } from '../services/api';
 
@@ -27,6 +28,7 @@ export default function Detection({ setActivePage, setGlobalAnalysisData }) {
   const [isAnalyzing, setIsAnalyzing] = useState(false);
   const [analysisResult, setAnalysisResult] = useState(null);
   const [errorMessage, setErrorMessage] = useState(null);
+  const [configModalOpen, setConfigModalOpen] = useState(false);
   const [dragActive, setDragActive] = useState(false);
   const fileInputRef = useRef(null);
 
@@ -332,15 +334,29 @@ export default function Detection({ setActivePage, setGlobalAnalysisData }) {
 
           {/* Error Message */}
           {errorMessage && (
-            <div className="p-4 rounded-xl bg-rose-950/60 border border-rose-800/80 text-rose-300 text-xs flex items-start gap-3">
-              <AlertCircle className="w-4 h-4 shrink-0 mt-0.5 text-rose-400" />
-              <div>
-                <p className="font-semibold">Analysis Failed</p>
-                <p className="mt-0.5">{errorMessage}</p>
+            <div className="p-4 rounded-xl bg-rose-950/60 border border-rose-800/80 text-rose-300 text-xs flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3">
+              <div className="flex items-start gap-3">
+                <AlertCircle className="w-4 h-4 shrink-0 mt-0.5 text-rose-400" />
+                <div>
+                  <p className="font-semibold">Analysis Failed</p>
+                  <p className="mt-0.5 leading-relaxed">{errorMessage}</p>
+                </div>
               </div>
+              <button
+                type="button"
+                onClick={() => setConfigModalOpen(true)}
+                className="shrink-0 px-3 py-1.5 rounded-lg bg-rose-900/80 hover:bg-rose-800 border border-rose-700 text-white font-medium text-xs transition-colors"
+              >
+                Configure Backend
+              </button>
             </div>
           )}
         </div>
+
+        <BackendConfigModal
+          isOpen={configModalOpen}
+          onClose={() => setConfigModalOpen(false)}
+        />
 
         {/* Right Column: Pre-calibrated Benchmark Audio presets & Quick Tips */}
         <div className="space-y-6">
